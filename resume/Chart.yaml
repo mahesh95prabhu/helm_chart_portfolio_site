@@ -1,6 +1,6 @@
 apiVersion: v2
 name: resume
-description: This my resume site
+description: This my resume site, once the site is hosted, We can create admins for the application who can upload new objects in the Project and Certification sections.
 
 type: application
 

@@ -1,0 +1,9 @@
+
+replicaCount: 3
+
+image:
+  repository: maheshprabhu/myresumesite_1
+  pullPolicy: IfNotPresent
+  tag: "running"
+
+

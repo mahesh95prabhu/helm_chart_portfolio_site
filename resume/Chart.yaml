@@ -1,0 +1,11 @@
+apiVersion: v2
+name: resume
+description: This my resume site
+
+type: application
+
+
+version: 0.1.0
+
+
+appVersion: "1.0.0"
